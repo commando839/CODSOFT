@@ -19,3 +19,10 @@ The project files are open for modification, allowing individuals to customize a
 
 - Offers short and basic Python codes for easy comprehension🧠.
 - Provides Python code snippets covering a wide variety of programs for a wide variety of purposes.
+
+## Information on CodSoft
+CodSoft is an IT services and consulting company based in Kolkata, West Bengal, India. Their social media links are given below:
+1. Website: https://www.codsoft.in/about-us
+2. Services: Software development, web development, mobile app development, digital marketing, and IT consulting.
+3. Internship program: They offer an internship program for students to gain hands-on experience in the IT industry.
+4. LinkedIn: https://www.linkedin.com/company/codesoft
