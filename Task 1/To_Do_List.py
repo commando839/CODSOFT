@@ -66,4 +66,4 @@ clear_button = tk.Button(input_frame, text="Clear All", command=clear_tasks)
 clear_button.pack(side=tk.LEFT, padx=5)
 
 # Start the GUI main loop
-root.mainloop()
+root.mainloop() 
