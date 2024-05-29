@@ -48,4 +48,4 @@ while True:
             elif operation == "4":
                 print("The answer of dividing the first number by the second number is", divide(number1, number2), ".")
     else:
-        print('Invalid choice! Select a valid choice')     
+        print('Invalid choice! Select a valid choice') 
